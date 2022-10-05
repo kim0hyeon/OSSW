@@ -9,10 +9,10 @@
 *줄바꿈
 끝에 <br> 붙이거나 스페이스 두번
 
-*글자체
+* 글자체
 **bold**<br>
 _italic_
 ~~strikethrough~~
 
 * 링크 넣기
-[링크 이름](www.naver.com)
+* [링크 이름](www.naver.com)
